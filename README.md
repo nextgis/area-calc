@@ -1,2 +1,2 @@
 # qgis-area-calc
-Reproduced QGIS ellipsoidal area calculation
+QGIS ellipsoidal area calculation reproduced in Python
