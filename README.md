@@ -12,8 +12,8 @@ p3 = [51.82, 63.8]
 
 points = [p0,p1,p2,p3]
 
-area = areacalc(points)
-print(area)
+areacalc(points)
+>730215205638.4752
 ```
 
 # Notes
