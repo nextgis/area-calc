@@ -3,6 +3,6 @@
 "name": "test",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "AREA": 725502762643.03308, "PERIMETER": 4311624.9901016206 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 51.82, 63.8 ], [ 43.48, 55.62 ], [ 75.38, 59.13 ], [ 51.82, 63.8 ] ] ] } }
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 51.82, 63.8 ], [ 43.48, 55.62 ], [ 75.38, 59.13 ], [ 51.82, 63.8 ] ] ] } }
 ]
 }

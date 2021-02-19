@@ -120,7 +120,8 @@ def test_data():
     return points
 
 def areacalc(points):
-    area = calculate_area(points) #725502762643.033081 - result of calculation in QGIS
+    area = calculate_area(points) #730215205638.4752 - correct result of calculation
+    #output_debug(area)
 
     return area
-    #output_debug(area)
+    
