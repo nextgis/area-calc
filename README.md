@@ -1,6 +1,21 @@
 # area-calc
 Ellipsoidal area calculation reproduced in Python with no dependencies
 
+# usage
+
+```python
+from calculate_area import areacalc
+p0 = [51.82, 63.8]
+p1 = [43.48, 55.62]
+p2 = [75.38, 59.13]
+p3 = [51.82, 63.8]
+
+points = [p0,p1,p2,p3]
+
+area = areacalc(points)
+print(area)
+```
+
 # Notes
 Implementations in other Software, languages
 

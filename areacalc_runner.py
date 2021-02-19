@@ -1,5 +1,5 @@
 import json
-from calculate_area import *
+from calculate_area import areacalc
 
 f_inputname = 'test.geojson'
 
